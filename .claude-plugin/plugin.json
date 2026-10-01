@@ -1,0 +1,10 @@
+{
+  "name": "catppuccin",
+  "displayName": "Catppuccin",
+  "version": "1.0.0",
+  "description": "Soothing pastel Catppuccin themes for Claude Code: Latte, Frappé, Macchiato and Mocha",
+  "author": { "name": "hlaclau", "url": "https://github.com/hlaclau" },
+  "repository": "https://github.com/hlaclau/claude-code",
+  "license": "MIT",
+  "keywords": ["theme", "catppuccin", "colors"]
+}

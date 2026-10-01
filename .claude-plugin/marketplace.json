@@ -1,0 +1,16 @@
+{
+  "name": "catppuccin",
+  "owner": {
+    "name": "hlaclau"
+  },
+  "metadata": {
+    "description": "Catppuccin color themes for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "catppuccin",
+      "source": "./",
+      "description": "Catppuccin themes: Latte, Frappé, Macchiato and Mocha"
+    }
+  ]
+}
