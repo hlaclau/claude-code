@@ -3,6 +3,7 @@
   "base": "dark",
   "overrides": {
     "claude": "#ca9ee6",
+    "clawd_body": "#ef9f76",
     "claudeShimmer": "#f4b8e4",
     "text": "#c6d0f5",
     "inverseText": "#303446",
